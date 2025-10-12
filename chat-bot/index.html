@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Здравствуйте!</title>
+</head>
+<body>
+    <div id="app">
+        <header>
+        <div class="logo">ТИПОГРАФИЯ</div>
+        <div class="logo">ПТПИТ</div>
+        </header>
+        <section>
+            <div class="chat">
+                <div v-if="emptyChat" class="chat__empty"> Чат поддержки типографии <br> Отправьте первый запрос! </div>
+                <div class="chat__messages">
+                    <div v-for="msg in messages" :class="msg.from === 'user' ? 'messages__request' : 'messages__response'">
+                        <p> {{ msg.text }} </p>
+                    </div>
+                    <button v-for="btnMsg in answersToBtn" @click="() => newQuery(btnMsg)" class="response__btn">{{ btnMsg }}</button>
+                </div>
+                <div class="chat__input">
+                    <input @keydown.enter="addNewMsg" id="req-input" v-model="userInput" type="text" placeholder="Введите текст..." required>
+                    <button  class="input__btn" @click="addNewMsg">
+                        <img src="Arrow-1.png" alt="">
+                    </button>
+                </div>
+            </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
