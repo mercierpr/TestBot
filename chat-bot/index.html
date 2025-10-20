@@ -6,13 +6,13 @@
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script src="script.js" defer></script>
     <link rel="stylesheet" href="style.css">
-    <title>Здравствуйте!</title>
+    <title>Типография</title>
 </head>
 <body>
     <div id="app">
         <header>
-        <div class="logo">ТИПОГРАФИЯ</div>
-        <div class="logo">ПТПИТ</div>
+            <div class="logo">ТИПОГРАФИЯ</div>
+            <div class="logo">ПТПИТ</div>
         </header>
         <section>
             <div class="chat">
@@ -26,10 +26,8 @@
                 <div class="chat__input">
                     <input @keydown.enter="addNewMsg" id="req-input" v-model="userInput" type="text" placeholder="Введите текст..." required>
                     <button  class="input__btn" @click="addNewMsg">
-                        <img src="Arrow-1.png" alt="">
+                        <img src="assets/Arrow-1.png" alt="">
                     </button>
-                </div>
-            </div>
                 </div>
             </div>
         </section>

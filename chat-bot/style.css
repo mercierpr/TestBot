@@ -12,7 +12,7 @@
     --main-gray: #E4ECFD;
 }
 
-input,input::placeholder  {
+input, input::placeholder  {
     color: var(--blue-text);
 }
 
@@ -37,7 +37,7 @@ header {
     justify-content: space-between;
     margin: 0 auto;
     max-width: 900px;
-    padding: 20px;
+    padding: 20px 0;
 }
 
 .logo {
@@ -46,7 +46,7 @@ header {
 }
 
 section {
-    height: 100vh;
+    min-height: 100vh;
     background: linear-gradient(90deg,rgba(78, 81, 255, 1) 0%, rgba(118, 94, 255, 1) 100%);    
 }
 
@@ -57,6 +57,12 @@ section {
     display: flex;
     flex-direction: column;
     gap: 20px;
+}
+
+.chat__empty {
+    color: #ffffff;
+    font-size: 20px;
+    align-self: center;
 }
 
 .chat__messages {
@@ -99,6 +105,10 @@ section {
     background-color: #ffffff;
     padding: 15px;
     border-radius: 15px;
+}
+
+.chat__input:focus-within {
+    outline: 2px solid var(--blue-darker);
 }
 
 .input__btn {

@@ -13,7 +13,7 @@ const app = {
         addNewMsg() {
             this.emptyChat = false;
             this.messages.push({from: 'user', text: this.userInput});
-            fetch("answers.json")
+            fetch("assets/answers.json")
             .then(res => res.json())
             .then(data => {
                 this.findAllQuery(data);
@@ -42,14 +42,14 @@ const app = {
         },
         findAnswers(){
             this.messages.push({from: 'user', text: this.userInput});
-            fetch("answers.json")
-            .then(res => res.json())
+            fetch("assets/answers.json")
+            .then(function(res){ // то же самое, что и .then(res => res.json())
+                return res.json();
+            })
             .then(data => {
                 data.forEach(answer => {
                     if(answer.question.includes(this.userInput)){
-                        this.botMsg = answer.answer;
-                        console.log(this.botMsg);
-                        
+                        this.botMsg = answer.answer;                     
                     }
                 });
                 this.messages.push({from: 'bot', text: this.botMsg});
