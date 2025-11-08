@@ -11,11 +11,33 @@
 <body>
     <div id="app">
         <header>
-            <div class="logo">ТИПОГРАФИЯ</div>
+            <div class="logo">ЧАТ-БОТ</div>
+            <div class="switch-block">
+                <span class="switch__label">Онлайн-курсы</span>
+                <button class="switch-block__switch" @click="clearChat">
+                    <span class="switch__mark" :class="this.typeChat == false ? 'switch__mark-active' : 'switch__mark'"></span>
+                </button>
+                <span class="switch__label">Типография</span>
+            </div>
             <div class="logo">ПТПИТ</div>
         </header>
         <section>
-            <div class="chat">
+            <div class="chat" v-if="typeChat">
+                <div v-if="emptyChat" class="chat__empty"> Чат поддержки сайта онлайн-курсов <br> Отправьте первый запрос! </div>
+                <div class="chat__messages">
+                    <div v-for="msg in messages" :class="msg.from === 'user' ? 'messages__request' : 'messages__response'">
+                        <p> {{ msg.text }} </p>
+                    </div>
+                    <button v-for="btnMsg in answersToBtn" @click="() => newQuery(btnMsg)" class="response__btn">{{ btnMsg }}</button>
+                </div>
+                <div class="chat__input">
+                    <input @keydown.enter="addNewMsg" id="req-input" v-model="userInput" type="text" placeholder="Введите текст..." required>
+                    <button  class="input__btn" @click="addNewMsg">
+                        <img src="assets/Arrow-1.png" alt="">
+                    </button>
+                </div>
+            </div>
+            <div class="chat" v-else>
                 <div v-if="emptyChat" class="chat__empty"> Чат поддержки типографии <br> Отправьте первый запрос! </div>
                 <div class="chat__messages">
                     <div v-for="msg in messages" :class="msg.from === 'user' ? 'messages__request' : 'messages__response'">

@@ -7,13 +7,15 @@ const app = {
             messages: ref([]),
             emptyChat: true,
             botMsg: '',
+            typeChat: true,
+            file: 'assets/question-web.json',
         }
     },
     methods: {
         addNewMsg() {
             this.emptyChat = false;
             this.messages.push({from: 'user', text: this.userInput});
-            fetch("assets/answers.json")
+            fetch(this.file)
             .then(res => res.json())
             .then(data => {
                 this.findAllQuery(data);
@@ -42,10 +44,8 @@ const app = {
         },
         findAnswers(){
             this.messages.push({from: 'user', text: this.userInput});
-            fetch("assets/answers.json")
-            .then(function(res){ // то же самое, что и .then(res => res.json())
-                return res.json();
-            })
+            fetch(this.file)
+            .then(res => res.json())
             .then(data => {
                 data.forEach(answer => {
                     if(answer.question.includes(this.userInput)){
@@ -58,6 +58,14 @@ const app = {
         newQuery(btnMsg){
             this.userInput = btnMsg;
             this.findAnswers();
+        },
+        clearChat(){
+            this.typeChat = !this.typeChat;
+            this.answersToBtn = [];
+            this.messages = ref([]);
+            this.emptyChat = true;
+            this.botMsg = '';
+            this.file = this.typeChat == true ? 'assets/question-web.json' : 'assets/question-typography.json';
         },
     },
 }

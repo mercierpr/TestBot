@@ -1,0 +1,423 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Страница — 1" id="qE26iQo4vd0GLRVagFTE">
+    <mxGraphModel dx="5174" dy="3093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U57j_SudYxYlo6oZK_CI-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-1" target="U57j_SudYxYlo6oZK_CI-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-85" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-1" target="U57j_SudYxYlo6oZK_CI-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-1" value="Производство печатной продукции" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-81" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-2" target="U57j_SudYxYlo6oZK_CI-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-82" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-2" target="U57j_SudYxYlo6oZK_CI-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-2" value="Какую задачу решает проект?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-3" target="U57j_SudYxYlo6oZK_CI-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-3" target="U57j_SudYxYlo6oZK_CI-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-3" target="U57j_SudYxYlo6oZK_CI-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-3" value="Объединяет полный цикл работ: предпечатная подготовка, печать, отделка и доставка" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="635" y="170" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-4" target="U57j_SudYxYlo6oZK_CI-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-4" value="Какие назначения у печатной продукции?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-185" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-5" target="U57j_SudYxYlo6oZK_CI-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-5" target="U57j_SudYxYlo6oZK_CI-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-5" value="Печатная продукция рекламного, корпоративного, издательского и сувенирного характера" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="600" width="210" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-6" target="U57j_SudYxYlo6oZK_CI-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-6" value="Что входит в предпечатную подготовку?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="565" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-7" target="U57j_SudYxYlo6oZK_CI-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-12" target="U57j_SudYxYlo6oZK_CI-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-12" target="U57j_SudYxYlo6oZK_CI-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-7" value="Как осуществляется сам процесс печати?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1045" y="300" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-9" target="U57j_SudYxYlo6oZK_CI-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-9" value="Что происходит после печати?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="865" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-10" value="Выполняются финишные работы: фальцовка, ламинирование, тиснение и упаковка" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="815" y="835" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-12" target="U57j_SudYxYlo6oZK_CI-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-88" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-12" target="U57j_SudYxYlo6oZK_CI-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-12" value="В зависимости от технологии: офсет, цифровая печать и др." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="430" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-14" target="U57j_SudYxYlo6oZK_CI-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-14" value="Как контролируется качество печати?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1115" y="580" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-15" target="U57j_SudYxYlo6oZK_CI-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-15" value="Через калибровку оборудования и визуальную проверку пробных отпечатков" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1085" y="800" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U57j_SudYxYlo6oZK_CI-17" target="U57j_SudYxYlo6oZK_CI-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-17" value="Проверка макета, настройка параметров оборудования (цвет и т.п.)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="565" y="430" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-19" target="U57j_SudYxYlo6oZK_CI-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-19" value="Почему этап подготовки критически важен?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="565" y="542.5" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-90" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-21" target="U57j_SudYxYlo6oZK_CI-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-21" value="Ошибки на этом этапе могут привести к браку всего тиража" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="650" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-30" target="U57j_SudYxYlo6oZK_CI-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-30" value="Какой ассортименты продукции выпускает типография?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="730" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U57j_SudYxYlo6oZK_CI-31" target="U57j_SudYxYlo6oZK_CI-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-31" value="В чем особенность офсетной печати?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1365" y="585" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-32" target="U57j_SudYxYlo6oZK_CI-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-32" value="Обеспечивает высокое качество и подходит для больших тиражей, при это себестоимость снижается при увеличении тиража" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1385" y="800" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U57j_SudYxYlo6oZK_CI-35" target="U57j_SudYxYlo6oZK_CI-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-35" value="Что такое цифровая печать?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1675" y="585" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U57j_SudYxYlo6oZK_CI-36" target="U57j_SudYxYlo6oZK_CI-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-36" value="Это технология, не требующая печатных форм и обеспечивающая быструю подготовку к печати" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1675" y="715" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U57j_SudYxYlo6oZK_CI-39" target="U57j_SudYxYlo6oZK_CI-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-39" value="Когда используется цифровая печать?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1675" y="835" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-40" value="При малых тиражах, индивидуальных заказах и срочной печати" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1675" y="955" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U57j_SudYxYlo6oZK_CI-45" target="U57j_SudYxYlo6oZK_CI-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-45" value="Какие дополнительные услуги предлагает типография?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="280" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U57j_SudYxYlo6oZK_CI-46" target="U57j_SudYxYlo6oZK_CI-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-46" target="U57j_SudYxYlo6oZK_CI-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-46" value="Разработка дизайна, создание макетов, консультации по выбору материалов, доставка" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="380" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U57j_SudYxYlo6oZK_CI-47" target="U57j_SudYxYlo6oZK_CI-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-47" value="Что включает услуга по разработке дизайна?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="500" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-48" target="U57j_SudYxYlo6oZK_CI-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-48" value="Зачем типография предлагает доставку?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="520" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-49" value="Обеспечение удобства клиентам и полный цикл услуг &quot;от макета до готового продукта&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="640" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-55" value="Визитки, буклеты, каталоги, календари, книги, постеры, баннеры, упаковка, сувениры, флаеры" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="855" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-58" target="U57j_SudYxYlo6oZK_CI-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-58" value="Почему важно выдерживать фирменный стиль?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="765" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-59" value="Поддержка узнаваемости компании и единый визуальный образ бренда" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="875" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-62" target="U57j_SudYxYlo6oZK_CI-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-62" value="На каких материалах выполняется печать?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="945" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-65" target="U57j_SudYxYlo6oZK_CI-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-65" target="U57j_SudYxYlo6oZK_CI-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-65" value="На бумаге, картоне, ткани, баннерное пленке, самоклейке, пластике, керамике" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1265" y="1060" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-66" target="U57j_SudYxYlo6oZK_CI-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-66" value="От чего зависит выбор бумаги?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1175" y="1425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-67" value="От назначения продукции, требуемой плотности и бюджета клиента" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1125" y="1530" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-68" target="U57j_SudYxYlo6oZK_CI-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-68" value="Почему важно правильно подобрать материал?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1415" y="1180" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-69" value="От материала зависит внешний вид, прочность и восприятие продукции" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="1300" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-75" target="U57j_SudYxYlo6oZK_CI-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-75" value="Какие виды бумаги применяются чаще всего?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1185" y="1180" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U57j_SudYxYlo6oZK_CI-76" target="U57j_SudYxYlo6oZK_CI-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-76" value="Мелованная, офсетная, дизайнерская, крафт-бумага" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1135" y="1300" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-87" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U57j_SudYxYlo6oZK_CI-83" target="U57j_SudYxYlo6oZK_CI-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U57j_SudYxYlo6oZK_CI-83" value="Создание оригинального макета с учетом задач клиента и особенностей бренда" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="630" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaXQw2QpBUdo48GeX86v-3" target="DaXQw2QpBUdo48GeX86v-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-2" value="Оформляет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DaXQw2QpBUdo48GeX86v-1">
+          <mxGeometry x="-0.1629" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-3" value="Клиент" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="-660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaXQw2QpBUdo48GeX86v-6" target="DaXQw2QpBUdo48GeX86v-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-5" value="Содержит" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DaXQw2QpBUdo48GeX86v-4">
+          <mxGeometry x="0.23" relative="1" as="geometry">
+            <mxPoint x="-2" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-6" value="Заказ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="-610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaXQw2QpBUdo48GeX86v-11" target="DaXQw2QpBUdo48GeX86v-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-8" value="Использует" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DaXQw2QpBUdo48GeX86v-7">
+          <mxGeometry x="-0.2364" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaXQw2QpBUdo48GeX86v-11" target="DaXQw2QpBUdo48GeX86v-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-10" value="Производится" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DaXQw2QpBUdo48GeX86v-9">
+          <mxGeometry x="-0.4293" y="2" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-11" value="Продукция" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="-480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaXQw2QpBUdo48GeX86v-18" target="DaXQw2QpBUdo48GeX86v-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-13" value="Выполняет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DaXQw2QpBUdo48GeX86v-12">
+          <mxGeometry x="-0.1315" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaXQw2QpBUdo48GeX86v-18" target="DaXQw2QpBUdo48GeX86v-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-15" value="Делает" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DaXQw2QpBUdo48GeX86v-14">
+          <mxGeometry x="0.1932" relative="1" as="geometry">
+            <mxPoint x="-28" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaXQw2QpBUdo48GeX86v-18" target="DaXQw2QpBUdo48GeX86v-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-17" value="Использует" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DaXQw2QpBUdo48GeX86v-16">
+          <mxGeometry x="-0.2633" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-18" value="Сотрудник" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-785" y="-610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-19" value="Материал" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="-350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-20" value="Оборудование" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-785" y="-430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-21" value="сотрудник" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-720" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-22" value="специализация: сотрудник" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-21">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-23" value="назначение: выполнение заказа клиента" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-21">
+          <mxGeometry y="60" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-24" value="положение: типография" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-21">
+          <mxGeometry y="100" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-25" value="содержит: заказ" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-21">
+          <mxGeometry y="130" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-26" value="клиент" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-720" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-27" value="специализация: клиент" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-26">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-28" value="назначение: заказ услуг печати" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-26">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-29" value="положение: типография" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-26">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-30" value="содержит: заказ" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-26">
+          <mxGeometry y="120" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-31" value="заказ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-720" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-32" value="специализация: заказ" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-31">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-33" value="назначение: формализация потребностей клиента" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-31">
+          <mxGeometry y="60" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-34" value="содержит: продукция" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-31">
+          <mxGeometry y="100" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-35" value="продукция" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-560" width="220" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-36" value="специализация: визитки, буклеты, книги" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-35">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-37" value="назначение: результат работы" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-35">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-38" value="спецклассы:&amp;nbsp;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-35">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-39" value="содержит: материал" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-35">
+          <mxGeometry y="120" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-40" value="производится: сотрудником на оборудовании" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-35">
+          <mxGeometry y="150" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-41" value="материал" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-350" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-42" value="специализация: бумага, картон, пленка" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-41">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-43" value="назначение: сырье" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-41">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-44" value="положение: типография" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-41">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-45" value="оборудование" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-520" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-46" value="специализация: печатная машина, ламинатор" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-45">
+          <mxGeometry y="30" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-47" value="назначение: производство продукции" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-45">
+          <mxGeometry y="70" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-48" value="положение: типография" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DaXQw2QpBUdo48GeX86v-45">
+          <mxGeometry y="100" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DaXQw2QpBUdo48GeX86v-30" target="DaXQw2QpBUdo48GeX86v-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DaXQw2QpBUdo48GeX86v-34" target="DaXQw2QpBUdo48GeX86v-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DaXQw2QpBUdo48GeX86v-39" target="DaXQw2QpBUdo48GeX86v-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaXQw2QpBUdo48GeX86v-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DaXQw2QpBUdo48GeX86v-25" target="DaXQw2QpBUdo48GeX86v-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
